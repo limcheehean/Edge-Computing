@@ -13,3 +13,5 @@ Deep Learning on Edge: https://github.com/drfuzzi/INF2009_DLonEdge
 MQTT: https://github.com/drfuzzi/INF2009_MQTT
 
 AWS IOT Core: https://github.com/drfuzzi/INF2009_AWSIoTCore
+
+LJ Notes: https://github.com/lokjunneo/edgelabs
